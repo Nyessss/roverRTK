@@ -14,7 +14,7 @@ ESP32S3 [t-display-s3](https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/
 
 > This project is at his early stage.
 
-Based on the [CENTIPEDE NETWORK](https://i3wm.org/](https://docs.centipede.fr/) 
+Based on the [CENTIPEDE NETWORK](https://docs.centipede.fr/) 
 <img width="100%" src="https://docs.centipede.fr/assets/images/index/1.jpg">
 
 
