@@ -19,7 +19,7 @@ Based on the [CENTIPEDE NETWORK](https://docs.centipede.fr/)
 
 
 * [Setup](https://github.com/Nyessss/roverRTK/wiki/installation)
-* [3d printed case](https://github.com/roverRTK/wiki/shortcuts)  
+* [3d printed case](https://github.com/Nyessss/roverRTK/tree/main/STLs)  
 
 
 
